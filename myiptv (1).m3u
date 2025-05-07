@@ -1,0 +1,45 @@
+#EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml"
+#EXTINF:-1,tvg-id="4k" tvg-name="4k" tvg-logo="https://epg.v1.mk/logo/4k.png" group-title="其他",4K
+http://A/ku9/js/webview.js?id=https://www.yangshipin.cn/tv/home?pid=600002264
+#EXTINF:-1,tvg-id="8K" tvg-name="8K" tvg-logo="https://epg.v1.mk/logo/8K.png" group-title="其他",8K
+http://A/ku9/js/webview.js?id=https://www.yangshipin.cn/tv/home?pid=600156816
+#EXTINF:-1,tvg-id="cctv-1综合" tvg-name="cctv-1综合" tvg-logo="https://epg.v1.mk/logo/cctv-1综合.png" group-title="其他",1綜合
+http://A/ku9/js/webview.js?id=https://tv.cctv.com/live/cctv1
+#EXTINF:-1,tvg-id="CCTV-2财经" tvg-name="CCTV-2财经" tvg-logo="https://epg.v1.mk/logo/CCTV-2财经.png" group-title="其他",2財經
+http://A/ku9/js/webview.js?id=https://tv.cctv.com/live/cctv2
+#EXTINF:-1,tvg-id="BEINSPORTSMAX3" tvg-name="BEINSPORTSMAX3" tvg-logo="https://epg.v1.mk/logo/BEINSPORTSMAX3.png" group-title="其他",X3綜藝
+http://A/ku9/js/webview.js?id=https://tv.cctv.com/live/cctv3
+#EXTINF:-1,tvg-id="02357429-4db0-42a1-956d-3f35c6462956" tvg-name="02357429-4db0-42a1-956d-3f35c6462956" tvg-logo="https://epg.v1.mk/logo/02357429-4db0-42a1-956d-3f35c6462956.png" group-title="其他",4亞洲
+http://A/ku9/js/webview.js?id=https://tv.cctv.com/live/cctv4
+#EXTINF:-1,tvg-id="CCTV4欧洲" tvg-name="CCTV4欧洲" tvg-logo="https://epg.v1.mk/logo/CCTV4欧洲.png" group-title="其他",4歐洲
+http://A/ku9/js/webview.js?id=https://tv.cctv.com/live/cctveurope/index.shtml
+#EXTINF:-1,tvg-id="CCTV4美洲" tvg-name="CCTV4美洲" tvg-logo="https://epg.v1.mk/logo/CCTV4美洲.png" group-title="其他",4美洲
+http://A/ku9/js/webview.js?id=https://tv.cctv.com/live/cctvamerica
+#EXTINF:-1,tvg-id="CCTV-5体育" tvg-name="CCTV-5体育" tvg-logo="https://epg.v1.mk/logo/CCTV-5体育.png" group-title="其他",5體育
+http://A/ku9/js/webview.js?id=https://tv.cctv.com/live/cctv5
+#EXTINF:-1,tvg-id="cctv5+体育赛事" tvg-name="cctv5+体育赛事" tvg-logo="https://epg.v1.mk/logo/cctv5+体育赛事.png" group-title="其他",5+體育賽事
+http://A/ku9/js/webview.js?id=https://tv.cctv.com/live/cctv5plus
+#EXTINF:-1,tvg-id="CCTV-6电影" tvg-name="CCTV-6电影" tvg-logo="https://epg.v1.mk/logo/CCTV-6电影.png" group-title="其他",6電影
+http://A/ku9/js/webview.js?id=https://tv.cctv.com/live/cctv6
+#EXTINF:-1,tvg-id="CCTV-7国防军事" tvg-name="CCTV-7国防军事" tvg-logo="https://epg.v1.mk/logo/CCTV-7国防军事.png" group-title="其他",7國防軍事
+http://A/ku9/js/webview.js?id=https://tv.cctv.com/live/cctv7
+#EXTINF:-1,tvg-id="CCTV-8电视剧" tvg-name="CCTV-8电视剧" tvg-logo="https://epg.v1.mk/logo/CCTV-8电视剧.png" group-title="其他",8電視劇
+http://A/ku9/js/webview.js?id=https://tv.cctv.com/live/cctv8
+#EXTINF:-1,tvg-id="CCTV-9纪录" tvg-name="CCTV-9纪录" tvg-logo="https://epg.v1.mk/logo/CCTV-9纪录.png" group-title="其他",9紀錄
+http://A/ku9/js/webview.js?id=https://tv.cctv.com/live/cctvjilu
+#EXTINF:-1,tvg-id="CCTV-10科教" tvg-name="CCTV-10科教" tvg-logo="https://epg.v1.mk/logo/CCTV-10科教.png" group-title="其他",10科教
+http://A/ku9/js/webview.js?id=https://tv.cctv.com/live/cctv10
+#EXTINF:-1,tvg-id="CCTV-11戏曲" tvg-name="CCTV-11戏曲" tvg-logo="https://epg.v1.mk/logo/CCTV-11戏曲.png" group-title="其他",11戲曲
+http://A/ku9/js/webview.js?id=https://tv.cctv.com/live/cctv11
+#EXTINF:-1,tvg-id="CCTV-12社会与法" tvg-name="CCTV-12社会与法" tvg-logo="https://epg.v1.mk/logo/CCTV-12社会与法.png" group-title="其他",12社會與法
+http://A/ku9/js/webview.js?id=https://tv.cctv.com/live/cctv12
+#EXTINF:-1,tvg-id="CCTV-13新闻" tvg-name="CCTV-13新闻" tvg-logo="https://epg.v1.mk/logo/CCTV-13新闻.png" group-title="其他",13新聞
+http://A/ku9/js/webview.js?id=https://tv.cctv.com/live/cctv13
+#EXTINF:-1,tvg-id="CCTV-14少儿" tvg-name="CCTV-14少儿" tvg-logo="https://epg.v1.mk/logo/CCTV-14少儿.png" group-title="其他",14少兒
+http://A/ku9/js/webview.js?id=https://tv.cctv.com/live/cctvchild
+#EXTINF:-1,tvg-id="cctv15音乐" tvg-name="cctv15音乐" tvg-logo="https://epg.v1.mk/logo/cctv15音乐.png" group-title="其他",15音樂
+http://A/ku9/js/webview.js?id=https://tv.cctv.com/live/cctv15
+#EXTINF:-1,tvg-id="FOX1" tvg-name="FOX1" tvg-logo="https://epg.v1.mk/logo/FOX1.png" group-title="其他",X16奧林匹克
+http://A/ku9/js/webview.js?id=https://tv.cctv.com/live/cctv16
+#EXTINF:-1,tvg-id="cctv17农业农村" tvg-name="cctv17农业农村" tvg-logo="https://epg.v1.mk/logo/cctv17农业农村.png" group-title="其他",17農業農村
+http://A/ku9/js/webview.js?id=https://tv.cctv.com/live/cctv17
